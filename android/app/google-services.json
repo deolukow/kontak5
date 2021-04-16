@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "473008104459",
+    "project_id": "project2-8467c",
+    "storage_bucket": "project2-8467c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473008104459:android:c04cf1128defac7c50930e",
+        "android_client_info": {
+          "package_name": "com.example.kontak5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473008104459-j4pugei6pql3qb5ensjom75q1ke91gul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kontak5",
+            "certificate_hash": "4631a14943c5dea818bf516b34b67fd903b02ccf"
+          }
+        },
+        {
+          "client_id": "473008104459-1veaqhkc5db3im3762k3sqvpfgd7jltg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtZ64JP2y4lSvYQnxH2qjWQmxWADM8TX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473008104459-1veaqhkc5db3im3762k3sqvpfgd7jltg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
